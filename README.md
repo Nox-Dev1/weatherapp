@@ -16,4 +16,6 @@ Extensions used:
 
 - Animated text by LilyMakesThings: for displaying the whole ui
 
+- Stretch: for error animation
+
 The API i used for this is **WeatherApi.com**
