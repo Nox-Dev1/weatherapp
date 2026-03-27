@@ -6,7 +6,7 @@ This was completely made in Turbowarp (scratch fork)
 
 Extensions used:
 
-- Text extension by CST1229, BludIsAnLemon and Man-o-Valor: for turning spaces into + to be compatible with http
+- Text extension by CST1229, BludIsAnLemon and Man-o-Valor: for turning spaces into + to be compatible with HTTP protocol
 
 - Custom Styles by TheShovel: for modifying the ask ui
 
