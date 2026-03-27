@@ -19,3 +19,9 @@ Extensions used:
 - Stretch: for error animation
 
 The API i used for this is **WeatherApi.com**
+
+#### **_This repo includes_**
+
+- A readme file
+- A sb3 file
+- A html file (packaged sb3)
