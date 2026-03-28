@@ -23,5 +23,6 @@ The API i used for this is **WeatherApi.com**
 #### **_This repo includes_**
 
 - A readme file
-- A sb3 file
+- A sb3 file containing the code
 - A html file (packaged sb3)
+- Another sb3 containing a test version
